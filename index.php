@@ -1,6 +1,7 @@
 <?php
 	既然这个是1.0版本，那我就随便写写吧
 ?>
+这边就随便写写吧
 <?php 
 
 // include 'config.php';
@@ -92,7 +93,7 @@ include_once VIEWS.$view_file;
 <?php
 	但是我还想再来一行
 ?>
-
+这边我再写一点
 <?php # 函数支持
 
 // 静态文件支持
